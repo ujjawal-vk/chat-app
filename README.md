@@ -29,6 +29,4 @@ Display online users
 Store chat history (with DB)
 
 Group chat & private messages
-
-UI improvements and typing indicators
 ---
